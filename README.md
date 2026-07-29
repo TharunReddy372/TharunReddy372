@@ -3,13 +3,7 @@
 <p align="center">   Passionate Java Full Stack Developer with strong knowledge of Java, Spring Boot, SQL, HTML, CSS, JavaScript, and ReactJS.
 </p>
 
-## 🛠️ Tech Stack
-
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,react,git,github,vscode,eclipse,maven" />
-</p> -->
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=java" height="30"/> Java &nbsp;&nbsp;
@@ -28,3 +22,7 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="30"/> Eclipse &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=maven" height="30"/> Maven
 </p>
+
+### 🌱 Currently Learning
+- 🔗 REST APIs
+- ☁️ Microservices
