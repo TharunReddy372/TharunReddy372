@@ -5,7 +5,7 @@
 
 ## 📫 Connect With Me
 
-📧 **Email:** your-dolatharunreddy@gmail.com
+📧 **Email:** dolatharunreddy@gmail.com
 
 📱 **Mobile:** +91 9347918510
 
