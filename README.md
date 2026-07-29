@@ -3,6 +3,24 @@
 <p align="center">   Passionate Java Full Stack Developer with strong knowledge of Java, Spring Boot, SQL, HTML, CSS, JavaScript, and ReactJS.
 </p>
 
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tharun-reddy-90b87b21a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TharunReddy372">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 ## 🛠️ Technical Skills
 
 <p>
