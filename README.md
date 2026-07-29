@@ -5,9 +5,9 @@
 
 ## 📫 Connect With Me
 
-📧 **Email:** your-email@gmail.com
+📧 **Email:** your-dolatharunreddy@gmail.com
 
-📱 **Mobile:** +91 XXXXXXXXXX
+📱 **Mobile:** +91 9347918510
 
 💼 **LinkedIn:** https://www.linkedin.com/in/tharun-reddy-90b87b21a
 
