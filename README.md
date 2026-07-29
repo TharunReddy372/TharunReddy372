@@ -2,3 +2,9 @@
 <h3 align="center">Java Full Stack Developer | Fresher</h3>
 <p align="center">   Passionate Java Full Stack Developer with strong knowledge of Java, Spring Boot, SQL, HTML, CSS, JavaScript, and ReactJS.
 </p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,react,git,github,vscode,eclipse,maven" />
+</p>
