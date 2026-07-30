@@ -82,4 +82,40 @@ GitHub: https://github.com/TharunReddy372/Projects-9gt
 •	Applied Bootstrap components and custom CSS to improve usability and layout consistency. 
 •	Utilized GitHub for source code management and version control. 
 
-GitHub:https://github.com/TharunReddy372/Tech-Shop-Project
+GitHub: https://github.com/TharunReddy372/Tech-Shop-Project
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TharunReddy372&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TharunReddy372&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunReddy372&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharunReddy372&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TharunReddy372&theme=tokyonight&row=1&column=6" />
+</p>
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TharunReddy372&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
